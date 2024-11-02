@@ -1,2 +1,3 @@
 tambah di lokal repo
 tambah 1 baris di remote
+tambah lagi di lokal

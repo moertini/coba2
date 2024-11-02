@@ -1,2 +1,3 @@
 tambah di lokal repo
 tambah di remote
+tambah lagi di lokal
